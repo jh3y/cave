@@ -82,9 +82,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="253.78169"
-     inkscape:cy="814.00234"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="302.2486"
+     inkscape:cy="799.71663"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -106,7 +106,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -155,6 +155,21 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
+    <path
+       style="fill:#c87137;fill-opacity:1;stroke:none;stroke-width:2.18350458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4164"
+       sodipodi:type="arc"
+       sodipodi:cx="375.00034"
+       sodipodi:cy="587.36212"
+       sodipodi:rx="83.479675"
+       sodipodi:ry="169.90822"
+       sodipodi:start="0"
+       sodipodi:end="6.26273"
+       sodipodi:open="true"
+       d="m 458.48001,587.36212 a 83.479675,169.90822 0 0 1 -83.05278,169.906 83.479675,169.90822 0 0 1 -83.9022,-168.16827 83.479675,169.90822 0 0 1 82.19465,-171.62595 83.479675,169.90822 0 0 1 84.74287,166.41294"
+       inkscape:export-filename="/Users/jhey/Documents/ShiftBear/cave/export/standing--construction.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
     <g
        id="g5464"
        transform="translate(129.92821,231.20449)">
@@ -243,7 +258,7 @@
     </g>
     <g
        id="g4175"
-       transform="translate(183.10523,13.637059)">
+       transform="translate(183.10523,14.93694)">
       <path
          id="path4161"
          transform="translate(0,2.3621384)"
